@@ -1,1 +1,3 @@
-# l3
+Чтобы запустить: 
+cargo build
+cargo run
