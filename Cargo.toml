@@ -1,0 +1,8 @@
+[package]
+name = "l3"
+version = "0.1.0"
+authors = ["l3 <l3@gmail.com>"]
+edition = "2020"
+
+[dependencies]
+rand = "0.6.4"
